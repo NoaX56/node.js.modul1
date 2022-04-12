@@ -1,0 +1,26 @@
+{
+  "name": "ist.zadatak1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoaX56/node.js.modul1.git"
+  },
+  "keywords": [
+    "shared",
+    "data"
+  ],
+  "author": "Antonije Janjusevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoaX56/node.js.modul1/issues"
+  },
+  "homepage": "https://github.com/NoaX56/node.js.modul1#readme",
+  "dependencies": {
+    "mathjs": "^10.4.3"
+  }
+}
